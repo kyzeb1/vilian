@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "373639889668",
+    "firebase_url": "https://ars-games-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ars-games",
+    "storage_bucket": "ars-games.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373639889668:android:9589276a90268ce1760651",
+        "android_client_info": {
+          "package_name": "com.brilliant.cr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb2-uhmuybhPv1hpv6KaCgIUsRmFWj2A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

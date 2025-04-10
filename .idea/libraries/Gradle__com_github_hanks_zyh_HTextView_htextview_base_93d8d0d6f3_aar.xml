@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.hanks-zyh.HTextView:htextview-base:93d8d0d6f3@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/8.9/transforms/ff41da7a129b462dae5aeb76a475c157/transformed/jetified-htextview-base-93d8d0d6f3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/8.9/transforms/ff41da7a129b462dae5aeb76a475c157/transformed/jetified-htextview-base-93d8d0d6f3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hanks-zyh.HTextView/htextview-base/93d8d0d6f3/76188fd3af40795a4be0cd6c5ffb4fabcfe5e453/htextview-base-93d8d0d6f3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.hanks-zyh.HTextView/htextview-base/93d8d0d6f3/416ebb1b63605fe36d8a410cd3cd17c5fa243be0/htextview-base-93d8d0d6f3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
